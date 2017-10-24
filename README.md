@@ -18,8 +18,8 @@ CMPE 281- Cloud Technologies
 ISA- Divyankita Urs
 
 Introduction:
-E-Carton is a portal where users can find eas ways to UPLOAD, DOWNLOAD, MODIFY/UPDATE and DELETE files in any form like text files, images, etc which they can store in their virtual carton and have access to through a simple login facility.
-The files are stored as objects using Amazon AWS S3 into a S3 Bucket and can be retrieved at any place using Amazon AWS CloudFront Edge Locations. Also, the application can be hosted locally or on Amazon EC2 and database used here is MySQL integrated with Amazon AWS RDS(Relational Database Service).
+E-Carton is a portal where users can find easy ways to UPLOAD, DOWNLOAD, MODIFY/UPDATE and DELETE files in any form like text files, images, etc which they can store in their virtual carton and have access to through a simple login facility.
+The files are stored as objects using Amazon AWS S3 into an S3 Bucket and can be retrieved at any place using Amazon AWS CloudFront Edge Locations. Also, the application can be hosted locally or on Amazon EC2 and the database used here is MySQL integrated with Amazon AWS RDS(Relational Database Service).
 
 
 
@@ -40,21 +40,19 @@ Demo Screenshots:
 
 •	Login Page:
 
-
 ![untitled](https://user-images.githubusercontent.com/31361805/31925772-c2d99cd6-b83f-11e7-9b37-ad6bde0804a9.png)
  
 •	User Welcome Page with Features:
-
 
 ![login](https://user-images.githubusercontent.com/31361805/31925659-18b91042-b83f-11e7-8e0f-7f0f601e05d7.png)
  
 
 •	List Files(Download, Update and Delete Features:
+
 ![uwp](https://user-images.githubusercontent.com/31361805/31925705-67c3ec02-b83f-11e7-8a04-cb664694ce9a.png)
  
 
 •	Browse & Upload:
-
 
 ![2017-10-23 1](https://user-images.githubusercontent.com/31361805/31925746-9dcd0914-b83f-11e7-937f-03f93373eed3.png)
  
