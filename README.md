@@ -17,6 +17,8 @@ The files are stored as objects using Amazon AWS S3 into a S3 Bucket and can be 
 
 Demo Screenshots:
 •	Home Page
+
+
 ![2017-10-23](https://user-images.githubusercontent.com/31361805/31925624-e8223b5c-b83e-11e7-9c90-11f2baf4885c.png)
 
  
