@@ -1,12 +1,20 @@
 # E-Carton
 Created By: Avleen Singh Khanuja
+
 Masters in SE(Mobile & Cloud Computing)
+
 San Jose State University, San Jose, CA
+
 Website link - my-1st-cloud-domain.co.uk
+
 Contact: avleensingh.khanuja@sjsu.edu
+
 LinkedIn: https://www.linkedin.com/in/avleen-singh-khanuja-3ab637128/
+
 Guided By: Prof. Sanjay Garje
+
 CMPE 281- Cloud Technologies
+
 ISA- Divyankita Urs
 
 Introduction:
