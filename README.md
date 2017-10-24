@@ -47,7 +47,7 @@ Demo Screenshots:
 ![login](https://user-images.githubusercontent.com/31361805/31925659-18b91042-b83f-11e7-8e0f-7f0f601e05d7.png)
  
 
-•	List Files(Download, Update and Delete Features:
+•	List Files(Download, Update and Delete Features):
 
 ![uwp](https://user-images.githubusercontent.com/31361805/31925705-67c3ec02-b83f-11e7-8a04-cb664694ce9a.png)
  
